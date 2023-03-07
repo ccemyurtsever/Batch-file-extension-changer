@@ -16,7 +16,7 @@ python uzantı.py
 C:\Users\example\folder
 .txt
 .md
-
+```
 English:
 
 This simple tool is designed to change the extensions of files in a specific location using Python. It doesn't have a user interface yet, but it can be developed into an application in the future.
@@ -34,3 +34,4 @@ python uzantı.py
 C:\Users\example\folder
 .txt
 .md
+```
