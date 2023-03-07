@@ -1,5 +1,4 @@
 # Batch-file-extension-changer
-Change extension without interface
 Türkçe:
   Python aracılığı ile yapılan belirli bir konumdaki dosyaların uzantılarını değiştirmek için kullanılan basit bir araç.
   Henüz bir arayüzü yok ancak ileri zamanda uygulama olacak.
